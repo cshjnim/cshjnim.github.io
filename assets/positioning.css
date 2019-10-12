@@ -1,0 +1,22 @@
+
+.box-set {
+    position: relative;
+    height: 500px;
+  }
+  
+  .box {
+    position: relative;
+    width: 150px;
+    height: 200px;
+    border: 20px solid;
+  }
+  
+  .box-1 {
+    top: 20px;
+    position: relative;
+  }
+    
+
+header {
+  position: relative;
+}
