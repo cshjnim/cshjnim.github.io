@@ -20,7 +20,7 @@ Nice and Clean and well organized portfolio site for All to view who is me.
 # Portfolio
 
 - Page with all my works & Projects
-   * Word Guess Game
+   * <a href="https://cshjnim.github.io/World_Guess_Game/">Word Guess Game</a>
    * Unit 4 Game
    * Trivia Game
    * Giphy Animal
