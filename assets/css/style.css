@@ -95,6 +95,14 @@ p {
 font-family: fantasy;
 }
 
+.auth-image {
+  float: left;
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 25px;
+}
+
 /* header */
 
 #masthead {
@@ -285,10 +293,9 @@ background: #4aaaa5;
 border-bottom: 0;
 }
 
-.auth-image {
-float: left;
-width: 200px;
-height: auto;
-margin-top: 10px;
-margin-right: 25px;
-}
+#work-image {
+  width: 200px;
+  margin-top: 10px;
+  margin-right: 25px;
+  max-height: 100px;
+  }
