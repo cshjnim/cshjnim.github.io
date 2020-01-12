@@ -26,6 +26,7 @@ Nice and Clean and well organized portfolio site for All to view who is me.
    * <a href="https://cshjnim.github.io/giphy.animal/">Giphy Animal</a>
    * <a href="https://cshjnim.github.io/Train_Time/">Train Time</a>
    * <a href="https://cshjnim.github.io/Project_Golden_Geese/">WordCloud</a>
-
+   * <a href="https://github.com/cshjnim/liri-node-app.git">WordCloud</a>
+   * <a href="https://github.com/cshjnim/node-and-mysql.git">Node and MySQL</a>
 
 README as of 12/10/2019
