@@ -34,4 +34,4 @@ Nice and Clean and well organized portfolio site for All to view who is me.
    * <a href="https://podfire.herokuapp.com/">CASTR-Podfire</a>
    
 
-README as of 01/24/2020
+README as of 02/13/2020
