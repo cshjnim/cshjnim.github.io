@@ -34,6 +34,7 @@ Nice and Clean and well organized portfolio site for All to view who is me.
    * <a href="https://podfire.herokuapp.com/">CASTR-Podfire</a>
    * <a href="https://news-scrapping-cshj.herokuapp.com/">News Scrapping</a>
    * <a href="https://blooming-castle-37283.herokuapp.com/">Clicky Game</a>
-    * <a href="https://whispering-savannah-89866.herokuapp.com/">Google-Book-Search</a>
+   * <a href="https://whispering-savannah-89866.herokuapp.com/">Google-Book-Search</a>
+   * <a href="https://fathomless-stream-68190.herokuapp.com/">Tamagotchi</a>
 
-README as of 02/28/2020
+README as of 03/28/2020
