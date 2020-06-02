@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-us">
+
 <head>
     <meta charset="UTF-8">
     <title>Hyejin Kim | Portfolio</title>
@@ -10,58 +11,56 @@
     <!-- Bootstrap CSS CDN -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css"
         integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
-    <style>
-        .container {
-            width: 100%;
-            margin: 0 auto;
-            clear: both;
-            text-align: center;
-        }
-
-        .row {
-            background-origin: padding-box
-        }
-
-        .col-sm-6 {
-            padding: 0;
-            height: 700px;
-        }
-
-        .centered {
-            position: absolute;
-            left: 0;
-            top: 10%;
-            width: 100%;
-            text-align: center;
-            font-size: 150px;
-            font-family: fantasy;
-        }
-
-        .navtoindex {
-            font-size: 20px;
-            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        }
-
-        a {
-            color: black;
-        }
-    </style>
+    <!-- General stylesheet -->
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
+
+
 <body>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-6" style="background: #5e7f7e;">
-            </div>
-            <div class="col-sm-6">
-            </div>
+
+    <header class="col=md-9" id="masthead">
+        <div class="container">
+            <a href="index.html" id="logo">HYEJIN KIM</a>
+            <nav>
+                <a href="home.html">About</a>
+                <a href="portfolio.html">Portfolio</a>
+                <a href="contact.html">Contact</a>
+            </nav>
         </div>
-        <div class="centered">
-            HE<br>LLO
-            <div class="navtoindex">
-                <a href= "index.html"> -> Click to go to Hyejin's bio page</a>
-            </div>
-        </div>
-        
+    </header>
+
+    <div id="main-container" class="container">
+        <section class="main-section">
+            <h1>About Me</h1>
+
+            <img src="assets/img/portfolio/hyejin1.jpg" class="auth-image" alt="Picture of Hyejin at the San Diego Catalina">
+
+            <p>My name is Hyejin Kim and I'm live in Los Angeles.
+                I'm a Full-Stack stack web developer located in Southern California.
+                Please go to <a href= "portfolio.html">PORTFOLIO</a> page to explore my latest projects or go to my <a href = "https://github.com/cshjnim">GITHUB</a> page.</p>
+                <br>
+            <p>I personally think that the coding is one of the great artwork that we can create and release to 
+                audiences.
+                Any image that we created in head can draw by using coding language and technologies, beside of paints and blushes. </p>
+                <br>
+            <p>I'm always learning how I can be a better programmer and trying to stay updated with the latest technologies. 
+                I'm currently working in different field but I'm really interested in transfer to a Web Developing field.
+                </p>
+            <p>
+                Please go to <a href= "contact.html">CONTACT</a> page for any business inquiries!</p>
+                <br>
+            <p>“You’re only here for a short visit.
+                Don’t hurry, don’t worry.
+                And be sure to smell the flowers along the way.” —Walter Hagen</p>
+                <br>
+        </section>
     </div>
+
+    <footer>
+        <div class="container">
+            Copyright &copy; Hyejin Kim <a href="#masthead">Back To Top</a>
+        </div>
+    </footer>
 </body>
+
 </html>
